@@ -1,8 +1,8 @@
-Work tools -  python, sql, R, Gephi
+Work tools -  Python, SQL, R, Gephi
 
-\bullet 📓study place: HSE (https://www.hse.ru/en/ba/political/)
-📩 you can find me with:
-  telegram: @ksenonia_boner
-  e-mail: ksenonia.hare@gmail.com
-  VK: https://vk.com/xsenonia
-  Instagram: 
+* 📓 study place: HSE (https://www.hse.ru/en/ba/political/)
+* 📩 you can find me with:
+	* telegram: @ksenonia_boner
+ 	* e-mail: ksenonia.hare@gmail.com
+	* vk: https://vk.com/xsenonia
+ 	* instagram: https://www.instagram.com/phhuck
