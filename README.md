@@ -5,4 +5,4 @@ Work tools -  Python, SQL, R, Gephi
 	* telegram: @ksenonia_boner
  	* e-mail: ksenonia.hare@gmail.com
 	* vk: https://vk.com/xsenonia
- 	* instagram: https://www.instagram.com/phhuck
+ 	
