@@ -1,4 +1,4 @@
-Work tools -  Python, SQL, R, Gephi
+Work tools -  Python, SQL, R, HTML, CSS, js, Gephi
 
 * 📓 study place: HSE (https://www.hse.ru/en/ba/political/)
 * 📩 you can find me with:
